@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>proprietary_vendor_xiaomi/libmmcamera2_iface_modules.so at 502ec28e99398bc7ee7a939df80f51250ef7b985 · TheScarastic/proprietary_vendor_xiaomi · GitHub</title>
+  <title>proprietary_vendor_xiaomi/camera.device@3.3-impl.so at 502ec28e99398bc7ee7a939df80f51250ef7b985 · TheScarastic/proprietary_vendor_xiaomi · GitHub</title>
     <meta name="description" content="Contribute to TheScarastic/proprietary_vendor_xiaomi development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -40,7 +40,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="CB52:01CE:18B8494:2512F6C:5B951BDB" data-pjax-transient>
+  <meta name="request-id" content="812A:01CE:18C0C3A:251F427:5B951C8B" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CB52:01CE:18B8494:2512F6C:5B951BDB" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="812A:01CE:18C0C3A:251F427:5B951C8B" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -69,11 +69,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="N2FhZjg3NjdiNWQ2ZGIzZGQxMzA3MTMwM2U5MWFhMzFmNTRkMzU5MDY1OTM2OTgyMTJlMDkwNmZkMGIwMzE2OHx7InJlbW90ZV9hZGRyZXNzIjoiMzUuMjMxLjE5Mi43IiwicmVxdWVzdF9pZCI6IkNCNTI6MDFDRToxOEI4NDk0OjI1MTJGNkM6NUI5NTFCREIiLCJ0aW1lc3RhbXAiOjE1MzY0OTg2NTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="NWQ0YzNkNjM1NzIwODE0NDY1NzdhMGQ5ZjlhOWM0MmQ0MTk5ZGQ5OTM5ZWZhYzc4Y2MyYTcwY2UzMTk4NWUwOHx7InJlbW90ZV9hZGRyZXNzIjoiMzUuMjMxLjE5Mi43IiwicmVxdWVzdF9pZCI6IjgxMkE6MDFDRToxOEMwQzNBOjI1MUY0Mjc6NUI5NTFDOEIiLCJ0aW1lc3RhbXAiOjE1MzY0OTg4MjcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
-  <meta name="html-safe-nonce" content="7deb2b2d7febb2ec62f5a3d643b37321ab6ce0a2">
+  <meta name="html-safe-nonce" content="140b0edbb75185e76296b4fc1d51b0e7498a1afc">
 
   <meta http-equiv="x-pjax-version" content="6b7e6d96a2f79f5bade0db1e03a49484">
   
@@ -85,7 +85,7 @@
   <meta name="octolytics-dimension-user_id" content="13186733" /><meta name="octolytics-dimension-user_login" content="TheScarastic" /><meta name="octolytics-dimension-repository_id" content="67400561" /><meta name="octolytics-dimension-repository_nwo" content="TheScarastic/proprietary_vendor_xiaomi" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="67400561" /><meta name="octolytics-dimension-repository_network_root_nwo" content="TheScarastic/proprietary_vendor_xiaomi" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device%403.3-impl.so" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -342,7 +342,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=m5nfaEhG1uGh34UieHUDroH3OsHlFkaJrnZ0roI7u/0Z1pir55t4lAMs2jCIOcJgsbY/u+5Xzz4hvn6wulVEsA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=40FMoJq+N3P+darw1zWWjx8xLpvJ0DUt3I66MNR1AdMJA4s7qIAEGm78IrF3/lC2lAWEV+UuUPZKkIVDoPW3Uw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -399,7 +399,7 @@
 
             </div>
 
-          <a class="HeaderMenu-target text-white no-underline mr-3" href="/login?return_to=%2FTheScarastic%2Fproprietary_vendor_xiaomi%2Fblob%2F502ec28e99398bc7ee7a939df80f51250ef7b985%2Ftissot%2Fproprietary%2Fvendor%2Flib%2Flibmmcamera2_iface_modules.so" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in; experiment:site_header_dropdowns; group:dropdowns">Sign&nbsp;in</a>
+          <a class="HeaderMenu-target text-white no-underline mr-3" href="/login?return_to=%2FTheScarastic%2Fproprietary_vendor_xiaomi%2Fblob%2F502ec28e99398bc7ee7a939df80f51250ef7b985%2Ftissot%2Fproprietary%2Fvendor%2Flib64%2Fcamera.device%25403.3-impl.so" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in; experiment:site_header_dropdowns; group:dropdowns">Sign&nbsp;in</a>
             <a class="HeaderMenu-target d-inline-block text-white no-underline border border-gray-dark rounded-2 px-2 py-1" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up; experiment:site_header_dropdowns; group:dropdowns">Sign&nbsp;up</a>
         </div>
       </div>
@@ -538,14 +538,14 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device%403.3-impl.so">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:7fe550f93a6e16d62c002f296e02326f -->
+  <!-- blob contrib key: blob_contributors:v21:30e890b17f86050263de4b0dea0c6e8a -->
 
       <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gm5BYJFq1M3nck7mIA25VZln4zVJH/TLXZAj3ZjovBUTWncSTSufWRdpBLA4SszYU5lPbFNAnnKZy9EO01Nulg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yEG9tN36t3K/61MuNiaXZ2bCcMCilmQ4EmzGF2OM0LPO/qwdjNrO7AyU5oZO36/OURzNVBb49AAAuj4Ks3BBFA==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
@@ -597,7 +597,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/cm-13.0/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/cm-13.0/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="cm-13.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -607,7 +607,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/cm-14.1/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/cm-14.1/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="cm-14.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -617,7 +617,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.0/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.0/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="lineage-15.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -627,7 +627,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.1-tissot/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.1-tissot/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="lineage-15.1-tissot"
                data-skip-pjax="true"
                rel="nofollow">
@@ -637,7 +637,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.1/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-15.1/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="lineage-15.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -647,7 +647,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-16.0/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/lineage-16.0/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="lineage-16.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -657,7 +657,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/TheScarastic/proprietary_vendor_xiaomi/blob/oreo/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so"
+               href="/TheScarastic/proprietary_vendor_xiaomi/blob/oreo/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so"
                data-name="oreo"
                data-skip-pjax="true"
                rel="nofollow">
@@ -696,12 +696,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985"><span>proprietary_vendor_xiaomi</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot"><span>tissot</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary"><span>proprietary</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor"><span>vendor</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib"><span>lib</span></a></span><span class="separator">/</span><strong class="final-path">libmmcamera2_iface_modules.so</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985"><span>proprietary_vendor_xiaomi</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot"><span>tissot</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary"><span>proprietary</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor"><span>vendor</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/TheScarastic/proprietary_vendor_xiaomi/tree/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64"><span>lib64</span></a></span><span class="separator">/</span><strong class="final-path">camera.device@3.3-impl.so</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/TheScarastic/proprietary_vendor_xiaomi/contributors/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so" class="commit-tease commit-loader">
+  <include-fragment src="/TheScarastic/proprietary_vendor_xiaomi/contributors/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so" class="commit-tease commit-loader">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -718,8 +718,8 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/TheScarastic/proprietary_vendor_xiaomi/raw/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/TheScarastic/proprietary_vendor_xiaomi/commits/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/TheScarastic/proprietary_vendor_xiaomi/raw/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device%403.3-impl.so">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/TheScarastic/proprietary_vendor_xiaomi/commits/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device%403.3-impl.so">History</a>
     </div>
 
 
@@ -730,7 +730,7 @@
   </div>
 
   <div class="file-info">
-    239 KB
+    47.3 KB
   </div>
 </div>
 
@@ -738,7 +738,7 @@
 
   <div itemprop="text" class="blob-wrapper data type-text">
       <div class="image">
-          <a href="/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib/libmmcamera2_iface_modules.so?raw=true">View Raw</a>
+          <a href="/TheScarastic/proprietary_vendor_xiaomi/blob/502ec28e99398bc7ee7a939df80f51250ef7b985/tissot/proprietary/vendor/lib64/camera.device@3.3-impl.so?raw=true">View Raw</a>
       </div>
   </div>
 
@@ -767,7 +767,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.13428s from unicorn-7674f88444-hpp7k">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.13975s from unicorn-7674f88444-p8bhv">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
